@@ -16,7 +16,7 @@ body {
 #headerOne {
     position: absolute;
     top: 50px;
-    left: 500px;
+    left: 35%;
     font-size: 28px;
 }   
 .page-two {
@@ -51,7 +51,7 @@ h3{
 #headerTwo {
     position: absolute;
     top: 80px;
-    left: 600px;
+    left: 36%;
     font-size: 25px;
 }
 
@@ -72,27 +72,44 @@ li a {
     position: absolute;
     top: 15px;
     left: 0px;
+    width: 100px;
 }
 
 #cookieOne{
     position: absolute;
+    left: 45px;
     top: 5px;
-    left: 35px;
+    width: 200px;
 }
 
 #cookieTwo{
     position: absolute;
     top: 5px;
-    left: 110px;
+    left: 145px;
+    width: 250px;
 }
 
 #cookieThree{
     position: absolute;
     top: 5px;
-    left: 230px;
+    left: 375px;
+    width: 250px;
 }
 
 #cookieFour{
+    position: absolute;
+    top: 5px;
+    left: 570px;
+    width: 250px;
+}
+
+#cookieFive{
+    position: absolute;
+    top: 5px;
+    left: 300px;
+}
+
+#cookieSix{
     position: absolute;
     top: 5px;
     left: 300px;
